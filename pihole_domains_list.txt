@@ -524,3 +524,9 @@
 (\.|^)zemanta\.
 (\.|^)zenith\.
 (\.|^)zenithoptimedia\.
+(\.|^)hubvisor\.
+(\.|^)aticdn\.
+(\.|^)iadvize\.
+(\.|^)kxcdn\.
+(\.|^)realytics\.
+(\.|^)techlab-cdn\.
