@@ -33,6 +33,7 @@
 (\.|^)adserver.rubiconproject.com\.$
 (\.|^)adservice.g.cn\.$
 (\.|^)adservice.google\.$
+(\.|^)ads.facebook.com\.$
 (\.|^)ads.google.com\.$
 (\.|^)ads.nielsen.com\.$
 (\.|^)adsrvr.org\.$
@@ -256,6 +257,7 @@
 (\.|^)feedback.yandex.com\.$
 (\.|^)firebaselogging-pa.googleapis.com\.$
 (\.|^)firefox.settings.services.mozilla.com\.$
+(\.|^)flipper.facebook.com\.$
 (\.|^)flurry.com\.$
 (\.|^)freewheel.tv\.$
 (\.|^)fwmrm.net\.$
@@ -338,6 +340,7 @@
 (\.|^)huaweimobile.net\.$
 (\.|^)huawei.net\.$
 (\.|^)hubspot.com\.$
+(\.|^)identifier.ads.gms.android.google.com\.$
 (\.|^)id.nielsen.com\.$
 (\.|^)id.tapad.com\.$
 (\.|^)id.yahoo.com\.$
@@ -394,6 +397,7 @@
 (\.|^)mediaforge.com\.$
 (\.|^)mediaindex.nielsen.com\.$
 (\.|^)mediamath.com\.$
+(\.|^)media.net\.$
 (\.|^)media.nielsen.com\.$
 (\.|^)mediaresearch.nielsen.com\.$
 (\.|^)media.tapad.com\.$
@@ -468,6 +472,7 @@
 (\.|^)pgl.com\.$
 (\.|^)phluant.com\.$
 (\.|^)pixfuture.com\.$
+(\.|^)places.facebook.com\.$
 (\.|^)platform.io\.$
 (\.|^)p.nielsen.com\.$
 (\.|^)polyvore.com\.$
@@ -531,6 +536,7 @@
 (\.|^)segment.com\.$
 (\.|^)segment.io\.$
 (\.|^)sentry.io\.$
+(\.|^)share.facebook.com\.$
 (\.|^)sharethrough.com\.$
 (\.|^)simplaex.com\.$
 (\.|^)singular.com\.$
@@ -602,6 +608,7 @@
 (\.|^)tapad.se\.$
 (\.|^)tapad.tv\.$
 (\.|^)tappx.com\.$
+(\.|^)target.my.com\.$
 (\.|^)teads.com\.$
 (\.|^)teads.tv\.$
 (\.|^)tele.fm\.$
@@ -649,6 +656,7 @@
 (\.|^)widespace.com\.$
 (\.|^)wire.nielsen.com\.$
 (\.|^)w.nielsen.com\.$
+(\.|^)wsmetrics.batch.com\.$
 (\.|^)w.tapad.com\.$
 (\.|^)wunderkind.com\.$
 (\.|^)w.yahoo.com\.$
