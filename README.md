@@ -10,7 +10,7 @@
     - [mobile.pipe.aria.microsoft.com](#mobilepipeariamicrosoftcom)
     - [mobileconfig.sascdn.com](#mobileconfigsascdncom)
     - [fundingchoicesmessages.google.com](#fundingchoicesmessages.google.com)
-    - [The Malwarebytes case](#The Malwarebytes-case)
+  - [The Malwarebytes case](#The Malwarebytes case)
   - [Extensions for Android and IOS devices](#extensions-for-android-and-ios-devices)
     - [Blocking trackers and intrusive advertising](#blocking-trackers-and-intrusive-advertising)
     - [Fingerprinting the web](#fingerprinting-the-web)
@@ -117,7 +117,7 @@ The excessive number reveals an automated system that is independent of our inte
 > It would appear that news aggregators are powerful conveyors of these connections. 
 
 
-### The Malwarebytes case ###
+## The Malwarebytes case ##
 There is no denying that this once excellent anti-malware program has slipped into a somewhat shady area. 
 There was a time when launching this security application connected to two crash tracking trackers (apparently), but now it connects to more than half a dozen well-known trackers. This is highly suspicious, especially for an application that is supposed to protect our data, not sell it to a nebulous network of interconnected trackers around the world. 
 Unfortunately, these hidden trackers cast a shadow over the meticulous work of the company's researchers. 
