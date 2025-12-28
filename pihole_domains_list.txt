@@ -100,6 +100,7 @@
 (\.|^)appsflyersdk\.
 (\.|^)arbitron\.
 (\.|^)asnapieu\.
+(\.|^)aswpsdkeu\.
 (\.|^)aticdn\.
 (\.|^)ati-host\.
 (\.|^)atinternet\.
@@ -130,6 +131,7 @@
 (\.|^)beluga\.
 (\.|^)benefitsatwork\.
 (\.|^)beop\.
+(\.|^)beyable\.
 (\.|^)bidder\.
 (\.|^)bidmachine\.
 (\.|^)bidswitch\.
@@ -166,8 +168,11 @@
 (\.|^)clickaine\.
 (\.|^)cloudflareinsights\.
 (\.|^)cnt\.
+(\.|^)commander1\.
 (\.|^)commandersact\.
 (\.|^)comscore\.
+(\.|^)consentframework\.
+(\.|^)consentmanager\.
 (\.|^)contentsquare\.
 (\.|^)convertexperiments\.
 (\.|^)cookiebot\.
@@ -179,6 +184,7 @@
 (\.|^)creative-serving\.
 (\.|^)criteo\.
 (\.|^)critizr\.
+(\.|^)cshield\.
 (\.|^)custom\.
 (\.|^)cv\.
 (\.|^)danielcwilson\.
@@ -224,8 +230,8 @@
 (\.|^)exp-tas\.
 (\.|^)extole\.
 (\.|^)ezodn\.
+(\.|^)ezoic\.
 (\.|^)fabric\.
-(\.|^)facebook\.
 (\.|^)facil-iti\.
 (\.|^)fathomdns\.
 (\.|^)fathomhq\.
@@ -252,6 +258,7 @@
 (\.|^)ghochv3eng\.
 (\.|^)giphy\.
 (\.|^)gizwits\.
+(\.|^)gizwits.com\.
 (\.|^)gleanmetrics\.
 (\.|^)glpals\.
 (\.|^)go\.
@@ -325,6 +332,7 @@
 (\.|^)krxd\.
 (\.|^)kvinit\.
 (\.|^)kxcdn\.
+(\.|^)launchdarkly\.
 (\.|^)lbiconnect\.
 (\.|^)liadm\.
 (\.|^)licdn\.
@@ -454,6 +462,7 @@
 (\.|^)pushwoosh\.
 (\.|^)qq\.
 (\.|^)quadran\.
+(\.|^)qualtrics\.
 (\.|^)quantcast\.
 (\.|^)quinstreet\.
 (\.|^)rambler\.
@@ -482,6 +491,7 @@
 (\.|^)scorecardresearch\.
 (\.|^)screeb\.
 (\.|^)sddan\.
+(\.|^)seedtag.\.
 (\.|^)seedtag\.
 (\.|^)segment\.
 (\.|^)sensefuel\.
@@ -492,6 +502,7 @@
 (\.|^)simplaex\.
 (\.|^)simpli\.
 (\.|^)singular\.
+(\.|^)sirdata\.
 (\.|^)sitescout\.
 (\.|^)smaato\.
 (\.|^)smartadserver\.
@@ -540,13 +551,12 @@
 (\.|^)tele\.
 (\.|^)telemetry\.
 (\.|^)tenjin\.
+(\.|^)themoneytizer\.
 (\.|^)thetradedesk\.
 (\.|^)thinkingdata\.
 (\.|^)thirdparty\.
 (\.|^)tidaltv\.
-(\.|^)tiktok\.
 (\.|^)tiktokcdn\.
-(\.|^)tiktok-web\.
 (\.|^)towerdata\.
 (\.|^)tracedock\.
 (\.|^)tracker\.
