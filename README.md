@@ -9,6 +9,8 @@
   - [About aggressive trackers](#about-aggressive-trackers)
     - [mobile.pipe.aria.microsoft.com](#mobilepipeariamicrosoftcom)
     - [mobileconfig.sascdn.com](#mobileconfigsascdncom)
+    - [fundingchoicesmessages.google.com](#fundingchoicesmessages.google.com)
+    - [The Malwarebytes case](#The Malwarebytes case))
   - [Extensions for Android and IOS devices](#extensions-for-android-and-ios-devices)
     - [Blocking trackers and intrusive advertising](#blocking-trackers-and-intrusive-advertising)
     - [Fingerprinting the web](#fingerprinting-the-web)
@@ -83,8 +85,9 @@ Bear in mind that a viral load can be sent via a zero-click ad.
 ## About aggressive trackers ##
 
 ### mobile.pipe.aria.microsoft.com ###
-If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the **Link to Windows** application on Android.  
-On Android 15, go to  
+If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the **Link to Windows** application on Android. 
+> [!NOTE]
+> On Android 15, go to  
 _Settings > Applications_   
 and search for the **Link to Windows** application.   
 This stops all connections immediately.   
@@ -99,13 +102,29 @@ These domains are included in my list of domains.
 A search in the trackers tab of the excellent [Exodus application](https://exodus-privacy.eu.org/ "εxodus - the Privacy Auditing Platform for Android Applications") will show you all the applications containing this bug at the date of their last scan. It is possible to request an online scan of an application. 
 
 To put an end to this energy-hungry drain on your smartphone's resources, all you have to do is stop each of the offending applications in turn.   
-On Android, just go to  
+> [!NOTE]
+> On Android, just go to  
 __Settings > Applications_   
 to stop the flow of connections immediately. 
 You are free to deactivate or not the application in question, depending on your usage.
 In my case, it was an application from an institutional weather service in my country.
 
+### fundingchoicesmessages.google.com ###
 
+With 9,940 connection attempts per 24 hours, I agree with those who believe that these connections are associated with tracking devices. I don't surf the internet enough to consent to so many cookie permissions. 
+The excessive number reveals an automated system that is independent of our internet activity and has a purpose that is very different from the stated goal.
+> [!NOTE]
+> It would appear that news aggregators are powerful conveyors of these connections. 
+
+
+### The Malwarebytes case ###
+There is no denying that this once excellent anti-malware program has slipped into a somewhat shady area. 
+There was a time when launching this security application connected to two crash tracking trackers (apparently), but now it connects to more than half a dozen well-known trackers. This is highly suspicious, especially for an application that is supposed to protect our data, not sell it to a nebulous network of interconnected trackers around the world. 
+Unfortunately, these hidden trackers cast a shadow over the meticulous work of the company's researchers. 
+To keep this application, it is best to stop it after a scan to avoid thousands of malicious connections. 
+I uninstalled it because it is untrustworthy, with the specter of venal bias during a scan or a flaw related to the trackers' APIs.
+> [!IMPORTANT]
+> Security applications do not have any trackers. This is how they remain credible.
 
 ## Extensions for Android and IOS devices 
 
