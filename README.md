@@ -120,7 +120,9 @@ The excessive number reveals an automated system that is independent of our inte
 ## The Malwarebytes case ##
 There is no denying that this once excellent anti-malware program has slipped into a somewhat shady area. 
 There was a time when launching this security application connected to two crash tracking trackers (apparently), but now it connects to more than half a dozen well-known trackers. This is highly suspicious, especially for an application that is supposed to protect our data, not sell it to a nebulous network of interconnected trackers around the world. 
+
 Unfortunately, these hidden trackers cast a shadow over the meticulous work of the company's researchers. 
+
 To keep this application, it is best to stop it after a scan to avoid thousands of malicious connections. 
 I uninstalled it because it is untrustworthy, with the specter of venal bias during a scan or a flaw related to the trackers' APIs.
 > [!IMPORTANT]
