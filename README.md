@@ -1,4 +1,4 @@
-# DNS blocking lists, Pihole, Unbound for cname-cloacking, trackers or intrusive advertising.
+# DNS blocking lists, Pihole, trackers or intrusive advertising, Unbound for cname-cloacking.
 
 **Table of Contents**  
 
