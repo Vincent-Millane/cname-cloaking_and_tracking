@@ -10,7 +10,7 @@
     - [mobile.pipe.aria.microsoft.com](#mobilepipeariamicrosoftcom)
     - [mobileconfig.sascdn.com](#mobileconfigsascdncom)
     - [fundingchoicesmessages.google.com](#fundingchoicesmessages.google.com)
-    - [The Malwarebytes case](#The Malwarebytes case)
+    - [The Malwarebytes case](#The Malwarebytes-case)
   - [Extensions for Android and IOS devices](#extensions-for-android-and-ios-devices)
     - [Blocking trackers and intrusive advertising](#blocking-trackers-and-intrusive-advertising)
     - [Fingerprinting the web](#fingerprinting-the-web)
