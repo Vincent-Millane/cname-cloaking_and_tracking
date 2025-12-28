@@ -257,6 +257,7 @@
 (\.|^)feedback.yandex.com\.$
 (\.|^)firebaselogging-pa.googleapis.com\.$
 (\.|^)firefox.settings.services.mozilla.com\.$
+(\.|^)flashb.id\.$
 (\.|^)flipper.facebook.com\.$
 (\.|^)flurry.com\.$
 (\.|^)freewheel.tv\.$
@@ -368,6 +369,7 @@
 (\.|^)io.yandex.com\.$
 (\.|^)iproxy.com\.$
 (\.|^)ironsource.com\.$
+(\.|^)jnn-pa.googleapis.com\.$
 (\.|^)joshdholtz\.$
 (\.|^)js.nielsen.com\.$
 (\.|^)js.tapad.com\.$
@@ -467,6 +469,7 @@
 (\.|^)o.yahoo.com\.$
 (\.|^)o.yandex.com\.$
 (\.|^)pangle.com\.$
+(\.|^)people-pa.googleapis.com\.$
 (\.|^)performics.com\.$
 (\.|^)performicsinteractive.com\.$
 (\.|^)pgl.com\.$
@@ -479,6 +482,7 @@
 (\.|^)popads.net\.$
 (\.|^)prebid.org\.$
 (\.|^)presage.io\.$
+(\.|^)proactivebackend-pa.googleapis.com\.$
 (\.|^)profile.nielsen.com\.$
 (\.|^)profile.tapad.com\.$
 (\.|^)profile.yahoo.com\.$
@@ -620,6 +624,7 @@
 (\.|^)tiktok.io\.$
 (\.|^)tiktok.net\.$
 (\.|^)t.nielsen.com\.$
+(\.|^)tracking.groupe-ldlc.com\.$
 (\.|^)tremorvideo.com\.$
 (\.|^)tribalfusion.com\.$
 (\.|^)truoptik.com\.$
