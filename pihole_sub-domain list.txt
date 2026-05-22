@@ -1,3 +1,4 @@
+
 (\.|^)247realmedia.com\.$
 (\.|^)2mdn.net\.$
 (\.|^)2o7.net\.$
@@ -84,6 +85,7 @@
 (\.|^)audience.tapad.com\.$
 (\.|^)audience.yahoo.com\.$
 (\.|^)audience.yandex.com\.$
+(\.|^)auditrecording-pa.googleapis.com\.$
 (\.|^)autonavi.com\.$
 (\.|^)awaps.nielsen.com\.$
 (\.|^)awaps.tapad.com\.$
@@ -168,11 +170,13 @@
 (\.|^)chartbeat.com\.$
 (\.|^)chartbeat.net\.$
 (\.|^)claritas.com\.$
+(\.|^)clientmetrics-pa.googleapis.com\.$
 (\.|^)cm.nielsen.com\.$
 (\.|^)cm.tapad.com\.$
 (\.|^)cm.yahoo.com\.$
 (\.|^)cm.yandex.com\.$
 (\.|^)comscore.com\.$
+(\.|^)content-partnersbadge-pa.googleapis.com\.$
 (\.|^)counter.nielsen.com\.$
 (\.|^)counter.tapad.com\.$
 (\.|^)counter.yandex.com\.$
@@ -185,6 +189,7 @@
 (\.|^)cr.yahoo.com\.$
 (\.|^)cs.yahoo.com\.$
 (\.|^)data.nielsen.com\.$
+(\.|^)datasaver.googleapis.com\.$
 (\.|^)data.tapad.com\.$
 (\.|^)datax.tapad.com\.$
 (\.|^)dataxu.com\.$
@@ -253,6 +258,7 @@
 (\.|^)fbsbx.io\.$
 (\.|^)fbsbx.net\.$
 (\.|^)feedback.nielsen.com\.$
+(\.|^)feedback-pa.googleapis.com\.$
 (\.|^)feedback.tapad.com\.$
 (\.|^)feedback.yandex.com\.$
 (\.|^)firebaselogging-pa.googleapis.com\.$
@@ -260,6 +266,7 @@
 (\.|^)flashb.id\.$
 (\.|^)flipper.facebook.com\.$
 (\.|^)flurry.com\.$
+(\.|^)footprints-pa.googleapis.com\.$
 (\.|^)freewheel.tv\.$
 (\.|^)fwmrm.net\.$
 (\.|^)fyber.com\.$
@@ -382,6 +389,7 @@
 (\.|^)liveintent.com\.$
 (\.|^)liverail.com\.$
 (\.|^)location.baidu.com\.$
+(\.|^)locationhistoryaggregates-pa.googleapis.com\.$
 (\.|^)lockerdome.com\.$
 (\.|^)loopme.com\.$
 (\.|^)maps.nielsen.com\.$
@@ -447,6 +455,8 @@
 (\.|^)nielsenratings.com\.$
 (\.|^)nielsenwire.com\.$
 (\.|^)ocr.nielsen.com\.$
+(\.|^)ogads-pa.clients6.google.com\.$
+(\.|^)ogads-pa.googleapis.com\.$
 (\.|^)omtrdc.net\.$
 (\.|^)onavo.com\.$
 (\.|^)onavo.io\.$
@@ -469,7 +479,6 @@
 (\.|^)o.yahoo.com\.$
 (\.|^)o.yandex.com\.$
 (\.|^)pangle.com\.$
-(\.|^)people-pa.googleapis.com\.$
 (\.|^)performics.com\.$
 (\.|^)performicsinteractive.com\.$
 (\.|^)pgl.com\.$
@@ -526,10 +535,12 @@
 (\.|^)Scarborough.com\.$
 (\.|^)scarborough.nielsen.com\.$
 (\.|^)scorecardresearch.com\.$
+(\.|^)searchlabspartnerservice-pa.googleapis.com\.$
 (\.|^)searchmarketing.tapad.com\.$
 (\.|^)searchmarketing.yahoo.com\.$
 (\.|^)searchmarketing.yandex.com\.$
 (\.|^)search.nielsen.com\.$
+(\.|^)searchpromo-pa.googleapis.com\.$
 (\.|^)search.tapad.com\.$
 (\.|^)search.yahoo.com\.$
 (\.|^)search.yandex.com\.$
@@ -547,6 +558,7 @@
 (\.|^)sitescout.com\.$
 (\.|^)smaato.net\.$
 (\.|^)smartadserver.com\.$
+(\.|^)smi2.ru\.$
 (\.|^)s.nielsen.com\.$
 (\.|^)snowplow.io\.$
 (\.|^)soma.smaato.net\.$
@@ -624,6 +636,7 @@
 (\.|^)tiktok.io\.$
 (\.|^)tiktok.net\.$
 (\.|^)t.nielsen.com\.$
+(\.|^)tracedepot-pa.googleapis.com\.$
 (\.|^)tracking.groupe-ldlc.com\.$
 (\.|^)tremorvideo.com\.$
 (\.|^)tribalfusion.com\.$
@@ -643,15 +656,18 @@
 (\.|^)u.nielsen.com\.$
 (\.|^)univision.com\.$
 (\.|^)urbanairship.com\.$
+(\.|^)userlocation.googleapis.com\.$
 (\.|^)u.tapad.com\.$
 (\.|^)u.yahoo.com\.$
 (\.|^)u.yandex.com\.$
 (\.|^)vantage.io\.$
+(\.|^)vdo.ai\.$
 (\.|^)verizondigitalmedia\.$
 (\.|^)videology.com\.$
 (\.|^)videologygroup.com\.$
 (\.|^)vimeo.com\.$
 (\.|^)v.nielsen.com\.$
+(\.|^)voilatile-pa.googleapis.com\.$
 (\.|^)v.tapad.com\.$
 (\.|^)vungle.com\.$
 (\.|^)v.yahoo.com\.$
@@ -668,6 +684,7 @@
 (\.|^)w.yandex.com\.$
 (\.|^)xandr.com\.$
 (\.|^)xaxis.com\.$
+(\.|^)xgapromomanager-pa.googleapis.com\.$
 (\.|^)x.nielsen.com\.$
 (\.|^)x.tapad.com\.$
 (\.|^)x.yahoo.com\.$
