@@ -1,3 +1,4 @@
+
 \.|^)0i0i0i0\.
 (\.|^)17986\.
 (\.|^)207\.
@@ -263,6 +264,7 @@
 (\.|^)deltadna\.
 (\.|^)demdex\.
 (\.|^)device-api\.
+(\.|^)devicenative\.
 (\.|^)didomi\.
 (\.|^)digitas\.
 (\.|^)digitaslbi\.
@@ -709,6 +711,7 @@
 (\.|^)urbanairship\.
 (\.|^)usablenet\.
 (\.|^)userway\.
+(\.|^)utiq\.
 (\.|^)uxcam\.
 (\.|^)vantage\.
 (\.|^)varify\.
