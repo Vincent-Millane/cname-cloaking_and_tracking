@@ -164,8 +164,8 @@ If you wish to value my work and my investment, you can do so in Monero crypto-c
 
 > 8AwD8HWyj1KSePrnk3VmkLJf3QQYKCHKmHBCZw4YBqEsLQpApAYUjRzQFx8WEQQqz78QXptAJvHQMPB2vp94pxiZTwtput9
 
-I appreciate it.
-contact jean-dupond@mailo.com
+I appreciate it.  
+<!-- contact jean-dupond@mailo.com -->
 
 ## License
 
